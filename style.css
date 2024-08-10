@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+}
+
+canvas{
+    image-rendering: pixelated; 
+    width: 40%; 
+    outline: black 3px solid;
+}
